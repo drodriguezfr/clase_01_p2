@@ -1,0 +1,9 @@
+# Notas
+Estas son unas notas basicas jaja:
+Do
+RE
+Mi
+Fa
+Sol
+La
+Si
