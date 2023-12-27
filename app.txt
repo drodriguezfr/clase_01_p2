@@ -7,3 +7,6 @@ Fa
 Sol
 La
 Si
+
+# Notas 2
+No olvidar bemoles y sostenidos!
